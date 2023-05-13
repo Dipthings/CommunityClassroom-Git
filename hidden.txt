@@ -1,0 +1,17 @@
+ Volume in drive C has no label.
+ Volume Serial Number is E4F6-62EC
+
+ Directory of C:\Users\91899\OneDrive\Desktop\projects
+
+13-05-2023  15:38    <DIR>          .git
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\91899\OneDrive\Desktop\projects\.git
+
+13-05-2023  15:38    <DIR>          .
+13-05-2023  15:38    <DIR>          ..
+               0 File(s)              0 bytes
+
+     Total Files Listed:
+               0 File(s)              0 bytes
+               3 Dir(s)  623,087,194,112 bytes free
